@@ -13,12 +13,7 @@ public class mergesort {
 			System.out.println("Number of comparisons for n= "+i+" "+counter+" comparisons");
 			resetCounter();
 		}
-		
-	//	for (int i=0;i<array1.length;i++)
-		//	System.out.printf("%d \n", array1[i]);
-	//	int array2[]={2,7,3,4,9,8,5,6};
-		//mergeSort(array2);
-		//System.out.println("Number of comparisons for " +counter+" comparisons");
+
 		resetCounter();
 	}
 	
